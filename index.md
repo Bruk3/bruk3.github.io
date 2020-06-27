@@ -13,7 +13,6 @@
     - Time Complexity 
     - Space Complexity 
     - Divide and Conquer algorithms
-    - 
 - __Improve your python programming skills__ 
 - __Get introduced to maintaining code using a Version Control System (Github)__
 - __Learn how to get things done using a linux terminal__ (Optional)
@@ -25,7 +24,6 @@
 - Passion and Self Motivaton 
 
 #### Day 0
-
 - Introduction 
 - Expectations and Committment
 
