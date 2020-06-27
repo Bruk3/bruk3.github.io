@@ -24,9 +24,6 @@
 - Acceptable typing speed 
 - Passion and Self Motivaton 
 
-
-
-
 #### Day 0
 
 - Introduction 
@@ -34,10 +31,10 @@
 
 ### Tasks for Week 1
 
-- Setting up the Development Environment 
+- __Setting up the Development Environment__ 
   - Install python 3.7 (https://www.youtube.com/watch?v=mbryl4MZJms&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=3)
   - Install Anaconda (https://www.youtube.com/watch?v=5mDYijMfSzs)
-- Review Basic python programming (functions, while loops, for loops, conditionals (if, else, elif))
+- __Review Basic python programming (functions, while loops, for loops, conditionals (if, else, elif))__
 
 
 
