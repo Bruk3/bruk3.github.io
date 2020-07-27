@@ -35,7 +35,11 @@
 - __Review Basic python programming (functions, while loops, for loops, conditionals (if, else, elif))__
 
 
-
+#### Day 1 
+- Check that the students have their dev environments set up properly. If they're having any troubles, ask them to share their screen and help them solve their issue. 
+- __First Pair Programming__ 
+    - Go to codeshare.io and quickly review the programming fundamentals. (Conditionals, Loops, Functions, Data types). An easy way to do this would be to write a holistic function of your choice that demonstrates all of the basics. Make sure you explain each line of code to the student as you write the function.
+    - Now since we're assuming a programming background for the Algorithms students, the next task would be to ask them to implement a very simple function that requires loops and conditionals at the very least. This will ensure that the student is ready for taking the next lessons. 
 
 
 
