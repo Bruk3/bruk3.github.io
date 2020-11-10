@@ -13,7 +13,7 @@ layout: default
 ## Coursework
 
 - [COMS 4113 - Distributed Systems](https://columbia.github.io/ds1-class/)
-- [COMS 4118 - Operating Systems](http://www.cs.columbia.edu/~jae/4118/?asof=20200908)
+- [COMS 4118 - Operating Systems I](http://www.cs.columbia.edu/~jae/4118/?asof=20200908)
 - [COMS 4170 - User Interface Design](http://coms4170.cs.columbia.edu/2020-spring/)
 - COMS 4231 - Analysis of Algorithms
 - COMS 4701 - Artificial Intelligence
@@ -22,7 +22,7 @@ layout: default
 I'm still an undergrad at Columbia University, so this is not a list of a formal teaching experience. But I'm very passionate about learning and since I believe that one doesn't learn until one begins to teach, I have been involved in a few teaching engagements over the years.
 
 - Teaching Assistant at Columbia University for [Advanced Programming CS3157](http://www.cs.columbia.edu/~jae/3157/?asof=20200908) 
-- Teaching Assitant at [AddisCoder Coding Bootcamp](https://addiscoder.com)
+- Teaching Assistant at [AddisCoder Coding Bootcamp](https://addiscoder.com)
 - [Instructor at CTP Ethiopia](https://ctpethiopia.com)
 
 
@@ -48,8 +48,7 @@ Here are descriptions of some of my favorite class projects. These are unfortuna
 
 ---
 
-## Packages
-My open source portfolio 
+## Open source projects
 
 ### [j-parser](https://github.com/Bruk3/j-parser)
 A comprehensive data serialization language parser
