@@ -26,14 +26,14 @@ I'm still an undergrad at Columbia University, so this is not a list of a formal
 
 ## Group Projects 
 
-- TAMID Tech - Fullstack Developer for Altooro (A startup in Israel) 
-    Code Plagiarism detection tool based on the MOSS software similarity detection alogrithm 
+- __TAMID Tech__ - part time internship at Altooro (A startup in Israel) 
+   - Code plagiarism detection service that is based on the [winnowing algorithm](http://theory.stanford.edu/~aiken/publications/papers/sigmod03.pdf)
     
-- CSEG Tech - [NYC Housing Automation](https://github.com/cseg-tech/nyc-housingautomation)
-    A notification system that alerts NYC tenants, tenant organizers, and other users who sign up for the service whenever a housing complaint is filed in their building.
+- __CSEG Tech__ - [NYC Housing Automation](https://github.com/cseg-tech/nyc-housingautomation)
+   - A notification system that alerts NYC tenants, tenant organizers, and other users who sign up for the service whenever a housing complaint is filed in their building
     
-- Columbia ADI - [Data@CU](https://github.com/ADI-Labs/data-api)
-    Data@CU is a project that aims to provide an API for all Columbia-related data and become the go-to source of data exclusively for student developers at Columbia through a RESTful API
+- __Columbia ADI__ - [Data@CU](https://github.com/ADI-Labs/data-api)
+  - Data@CU is a project that aims to provide an API for all Columbia-related data and become the go-to source of data exclusively for student developers at Columbia through a RESTful API
     
 
  
