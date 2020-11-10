@@ -1,53 +1,57 @@
-## Intro to Algorithms and Programming Essentials 
-### CTP OTM (Round 1)
+---
+layout: default
+---
 
-### Objectives
-- __Get introduced to some of the most fundamental data structures and classic algorithms in Computer Science__
-    - Searching
-    - Sorting
-    - Arrays, Lists and Dictionaries
-    - Stacks
-    - Recursion 
-    - Binary Trees
-- __Learn some algorithm design and analysis techniques__
-    - Time Complexity 
-    - Space Complexity 
-    - Divide and Conquer algorithms
-- __Improve your python programming skills__ 
-- __Get introduced to maintaining code using a Version Control System (Github)__
-- __Learn how to get things done using a linux terminal__ (Optional)
+# A teeny tiny bit about me
 
-### Prerequisites 
-- Basic programming fundamentals (types, variables, loops, conditionals,functions, Time Complexity)
-- Basic knowledge of coding in python 
-- Acceptable typing speed 
-- Passion and Self Motivaton 
+---
+## Experience
+- SWE Intern at Honey + PayPal 
+- SWE Intern at AhadooTec (A technology company in Addis Ababa Ethiopia)
+- Sia Lab (Undergraduate Research at Columbia University)
 
-#### Day 0
-- Introduction 
-- Expectations and Committment
+## Coursework
 
-### Tasks for Week 1
+- [COMS 4113 - Distributed Systems](https://columbia.github.io/ds1-class/)
+- [COMS 4118 - Operating Systems](http://www.cs.columbia.edu/~jae/4118/?asof=20200908)
+- [COMS 4170 - User Interface Design](http://coms4170.cs.columbia.edu/2020-spring/)
+- COMS 4231 - Analysis of Algorithms
+- COMS 4701 - Artificial Intelligence
 
-- __Setting up the Development Environment__ 
-  - Install python 3.7 (https://www.youtube.com/watch?v=mbryl4MZJms&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=3)
-  - Install Anaconda (https://www.youtube.com/watch?v=5mDYijMfSzs)
-- __Review Basic python programming (functions, while loops, for loops, conditionals (if, else, elif))__
+## Teaching 
+I'm still an undergrad at Columbia University, so this is not a list of a formal teaching experience. But I'm very passionate about learning and since I believe that one doesn't learn until one begins to teach, I have been involved in a few teaching engagements over the years.
+
+- Teaching Assistant at Columbia University for [Advanced Programming CS3157](http://www.cs.columbia.edu/~jae/3157/?asof=20200908) 
+- Teaching Assitant at [AddisCoder Coding Bootcamp](https://addiscoder.com)
+- [Instructor at CTP Ethiopia](https://ctpethiopia.com)
 
 
-#### Day 1 
-- Check that the students have their dev environments set up properly. If they're having any troubles, ask them to share their screen and help them solve their issue. 
-- __First Pair Programming__ 
-    - Go to codeshare.io and quickly review the programming fundamentals. (Conditionals, Loops, Functions, Data types). An easy way to do this would be to write a holistic function of your choice that demonstrates all of the basics. Make sure you explain each line of code to the student as you write the function.
-    - Now since we're assuming a programming background for the Algorithms students, the next task would be to ask them to implement a very simple function that requires loops and conditionals at the very least. This will ensure that the student is ready for taking the next lessons. 
+## Group Projects 
+
+- TAMID Tech - Fullstack Developer for Altooro (A startup in Israel) 
+    Code Plagiarism detection tool based on the MOSS software similarity detection alogrithm 
+    
+- CSEG Tech - [NYC Housing Automation](https://github.com/cseg-tech/nyc-housingautomation)
+    A notification system that alerts NYC tenants, tenant organizers, and other users who sign up for the service whenever a housing complaint is filed in their building.
+    
+- Columbia ADI - [Data@CU](https://github.com/ADI-Labs/data-api)
+    Data@CU is a project that aims to provide an API for all Columbia-related data and become the go-to source of data exclusively for student developers at Columbia through a RESTful API
+    
+
+ 
+---
+
+## Projects
+Here are descriptions of some of my favorite class projects. These are unfortunately :< in private repositories since these projects are still actively assigned in the classes.
+ - Coming soon
 
 
+---
+
+## Packages
+My open source portfolio 
+
+### [j-parser](https://github.com/Bruk3/j-parser)
+A comprehensive data serialization language parser
 
 
-<!--- 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bruk3/bruk3.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file. 
--->
