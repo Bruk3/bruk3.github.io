@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # A teeny tiny bit about me
 
 ---
