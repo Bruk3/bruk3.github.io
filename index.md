@@ -11,6 +11,8 @@
 - [COMS 4113 - Distributed Systems](https://columbia.github.io/ds1-class/)
 - [COMS 4118 - Operating Systems I](http://www.cs.columbia.edu/~jae/4118/?asof=20200908)
 - [COMS 4170 - User Interface Design](http://coms4170.cs.columbia.edu/2020-spring/)
+- [COMS 4111 - Introduction to Databases](http://www.cs.columbia.edu/~biliris/4111/20f/)
+- [COMS 4995 - Open Source Development](http://www.cs.columbia.edu/~paine/4995/)
 - COMS 4231 - Analysis of Algorithms
 - COMS 4701 - Artificial Intelligence
 
