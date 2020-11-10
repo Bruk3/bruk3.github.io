@@ -3,8 +3,8 @@
 ---
 ## Experience
 - SWE Intern at Honey + PayPal 
-- SWE Intern at AhadooTec (A technology company in Addis Ababa Ethiopia)
-- Sia Lab (Undergraduate Research at Columbia University)
+- SWE Intern at AhadooTec
+- Undergraduate Research at Sia Lab, Columbia Engineering
 
 ## Coursework
 
@@ -19,7 +19,7 @@ I'm still an undergrad at Columbia University, so this is not a list of a formal
 
 - Teaching Assistant at Columbia University for [Advanced Programming CS3157](http://www.cs.columbia.edu/~jae/3157/?asof=20200908) 
 - Teaching Assistant at [AddisCoder Coding Bootcamp](https://addiscoder.com)
-- [Instructor at CTP Ethiopia](https://ctpethiopia.com)
+- Instructor at [CTP Ethiopia](https://ctpethiopia.com)
 
 
 ## Group Projects 
