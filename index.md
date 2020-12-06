@@ -51,4 +51,7 @@ Here are descriptions of some of my favorite class projects. These are unfortuna
 ### [j-parser](https://github.com/Bruk3/j-parser)
 A comprehensive data serialization language parser
 
+### [obscenity-filter](https://github.com/Bruk3/obscenity-filter)
+A javascript library that detects obscene Amharic words and phrases.
+
 
