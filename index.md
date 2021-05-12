@@ -47,6 +47,8 @@ Here are descriptions of some of my favorite class projects. These are unfortuna
 ---
 
 ## Open source projects
+### [C-net](https://github.com/Bruk3/C-net)
+- A C like programming language optimized for socket and file programming
 
 ### [j-parser](https://github.com/Bruk3/j-parser)
 - A comprehensive data serialization language parser
