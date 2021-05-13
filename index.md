@@ -25,8 +25,8 @@ I'm still an undergrad at Columbia University, so this is not a list of a formal
 
 
 ## Group Projects 
-- __VMS__ - COVID Vaccine Management System for Tenafly and Leonia, cities in New Jersey
-   - Web based reservartion and vaccine management system
+- __VMS__ - Columbia CS Undergraduate project with Professor Henning Schulzrinne
+   - COVID Vaccine Management System for Tenafly and Leonia, cities in New Jersey
   (https://getvaccinatednow.org)
 
 - __TAMID Tech__ - part time internship at Altooro (A startup in Israel) 
