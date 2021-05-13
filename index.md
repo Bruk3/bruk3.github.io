@@ -7,7 +7,8 @@
 - Undergraduate Research at Sia Lab, Columbia Engineering
 
 ## Coursework
-
+- [COMS 4115 - Programming Languages and Translators](http://www.cs.columbia.edu/~sedwards/classes/2021/4115-spring/index.html)
+- [COMS 6998 - Cloud Computing and Big Data]
 - [COMS 4113 - Distributed Systems](https://columbia.github.io/ds1-class/)
 - [COMS 4118 - Operating Systems I](http://www.cs.columbia.edu/~jae/4118/?asof=20200908)
 - [COMS 4170 - User Interface Design](http://coms4170.cs.columbia.edu/2020-spring/)
